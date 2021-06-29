@@ -4,7 +4,7 @@
 
 💬 If I cannot do great things, I can do small things in a great way
 
-
+![Hashibiro Inoske](https://static.wikia.nocookie.net/kimetsunoyaiba/images/9/94/Inosuke_anime_design.png/revision/latest?cb=20190526144228&path-prefix=ru)
 <!--
 **rasult22/rasult22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
