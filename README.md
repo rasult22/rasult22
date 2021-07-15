@@ -4,7 +4,7 @@
 
 💬 If I cannot do great things, I can do small things in a great way
 
-![Kamado Tanjiro](https://i.ibb.co/Y7fK0fK/Tanjirou-anime-design-removebg-preview.png)
+![Itachi](https://media0.giphy.com/media/12754FUAz1Ks5q/giphy.gif)
 <!--
 **rasult22/rasult22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
