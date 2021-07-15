@@ -4,7 +4,7 @@
 
 💬 If I cannot do great things, I can do small things in a great way
 
-![Itachi](https://media0.giphy.com/media/12754FUAz1Ks5q/giphy.gif)
+![Itachi](https://media0.giphy.com/media/rrTXn4zEMp008/giphy.gif)
 <!--
 **rasult22/rasult22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
