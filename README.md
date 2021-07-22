@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning MEVN stack
 
-💬 If I cannot do great things, I can do small things in a great way
+💬 Having an overwhelming power is boring as hell.
 
 ![Itachi](https://media1.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif)
 <!--
