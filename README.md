@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning TypeScript, Vim
 - 🤔 I’m looking for help with mentoring me with software engineering
 -   Telegram: https://t.me/rasult22js
+-   Instagram: https://instagram.com/rasyokin
 
 <!-- ![Itachi](https://media1.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif) -->
 <!--
