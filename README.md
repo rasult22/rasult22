@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on https://kaspi.kz and https://coinsave.us/
 - 🌱 I’m currently learning TypeScript, Vim
 - 🤔 I’m looking for help with mentoring me with software engineering
+- 📫 How to reach me:
 -   Telegram: https://t.me/rasult22js
 -   Instagram: https://instagram.com/rasyokin
 
