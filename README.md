@@ -2,7 +2,7 @@
 
 💬 Having an overwhelming power is boring as hell.
 
-- 🔭 I’m currently working on https://kaspi.kz (Kaspi Gold Dev Team) and https://coinsave.us/
+- 🔭 I’m currently working on https://kaspi.kz (Kaspi Gold Dev Team)
 - 🌱 I’m currently learning TypeScript, Vim
 - 🤔 I’m looking for help with mentoring me with software engineering
 - 📫 How to reach me:
