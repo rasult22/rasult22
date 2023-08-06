@@ -1,10 +1,8 @@
 ### Hi there 👋
+My name is Rassulzhan
 
-💬 Having an overwhelming power is boring as hell.
-
-- 🔭 I’m currently working on https://kaspi.kz (Kaspi Gold Dev Team)
-- 🌱 I’m currently learning TailwindCSS, Vim
-- 🤔 I’m looking for help with mentoring me with software engineering
+- 🔭 I’m currently working on https://smm.art and https://dreambody.ai
+- 🌱 I’m currently learning React, Vim, Ionic/Capacitor, PostgreSQL ... 
 - 📫 How to reach me:
 -   Telegram: https://t.me/rasult22js
 -   Instagram: https://instagram.com/rasyokin
