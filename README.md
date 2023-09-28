@@ -2,7 +2,7 @@
 My name is Rassulzhan
 
 - 🔭 I’m currently working on https://smm.art and https://dreambody.ai
-- 🌱 I’m currently learning React, Vim, Ionic/Capacitor, PostgreSQL ... 
+- 🌱 I’m currently learning React/Svelte, Vim, Cordova/Capacitor, PostgreSQL/Prisma, TRPC ... 
 - 📫 How to reach me:
 -   Telegram: https://t.me/rasult22js
 -   Instagram: https://instagram.com/rasyokin
